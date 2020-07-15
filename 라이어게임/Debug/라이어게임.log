@@ -1,0 +1,3 @@
+﻿  Liargame.cpp
+C:\Users\98shc\source\repos\라이어게임\라이어게임\Liargame.cpp(184,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  라이어게임.vcxproj -> C:\Users\98shc\source\repos\라이어게임\Debug\라이어게임.exe
